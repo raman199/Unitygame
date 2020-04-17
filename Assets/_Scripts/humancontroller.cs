@@ -35,7 +35,7 @@ public class humancontroller : MonoBehaviour
                 gameController.Score += 100;
              break;
              case "stone":
-                              gameController.Lives -= 1;
+                  gameController.Lives -= 1;
 
              break;
 
